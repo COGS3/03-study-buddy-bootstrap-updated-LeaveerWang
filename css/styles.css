@@ -1,7 +1,7 @@
 
 /* COGS3 studyBuddy specific styles go here. */
 #title{
-  background-color: #00bcd4;
+  background-color: #9eda13;
 }
 
 .container-fluid {
@@ -9,35 +9,35 @@
 }
 
 h1 {
-  font-family: 'Montserrat', sans-serif ;
+  font-family: 'Inter', sans-serif;
   font-weight: bold;
   font-size: 3rem;
-  line-height: 1.5;
-  color: #ffff;
+  line-height: 2.5;
+  color: #e07a04;
 }
 
 h2{
-  color: #ffff;
-  font-family: 'Montserrat';
-  font-size: 1.5;
+  color: #db820e;
+  font-family: 'Inter', sans-serif;
+  font-size: 2.5;
   font-weight: bold;
 }
 
 h3{
-  font-family: 'Montserrat';
+  font-family: 'Inter', sans-serif;
   font-weight: bold;
 }
 
 p{
-  color: #8f8f8f;
+  color: #7509a0;
 }
 
 .navbar{
   padding: 0 0 4.5rem;
 }
 .navbar-brand{
-  font-family: 'Ubuntu';
-  font-size: 2.5rem;
+  font-family: 'Lora';
+  font-size: 3.0rem;
   font-weight: bold;
 }
 
@@ -46,7 +46,7 @@ p{
 }
 
 .navbar-link{
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 1.2rem;
 }
 
@@ -63,8 +63,8 @@ p{
 
 
 #features {
-  padding: 7% 15%;
-  background-color: #ffff;
+  padding: 10% 20%;
+  background-color: #e670ab;
 }
 
 .feature-box {
@@ -73,22 +73,22 @@ p{
 }
 
 .icon{
-  color:#ef8712;
+  color:#c91e1e;
   margin-bottom: 1rem;
 }
 
 .icon:hover{
-  color: #8fdbf2;
+  color: #11ce49;
 }
 
 #testimonials{
-  padding:7% 15%;
+  padding:10% 20%;
   text-align: center;
-  background-color: #00bcd4;
+  background-color: #0ebd34;
 }
 
 .carousel-item {
-  padding: 7% 15%;
+  padding: 10% 20%;
 }
 
 .testimonial-image{
@@ -98,7 +98,7 @@ p{
 }
 
 #press{
-  background-color: #00bcd4;
+  background-color: #12b65c;
   text-align: center;
 }
 .press-logo{
@@ -120,26 +120,26 @@ p{
 }
 
 #cta{
-  background-color: #00bcd4;
-  color: #ffff;
-  padding:7% 15%;
+  background-color: #15d154;
+  color: #f18023;
+  padding:10% 20%;
   text-align: center;
 }
 
 .cta-heading{
-  font-family: 'Montserrat';
+  font-family: 'Inter', sans-serif;
   font-weight: bold;
   font-size: 3.5rem;
-  line-height: 1.5;
+  line-height: 2.0;
 }
 
 #footer{
-  padding: 7% 15%;
+  padding: 10% 20%;
   text-align: center;
 }
 
 .social-icon{
-  margin: 20px 10px;
+  margin: 40px 30px;
 }
 
 @media(max-width: 1028px){
